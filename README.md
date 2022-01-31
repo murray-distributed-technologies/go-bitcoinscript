@@ -1,5 +1,3 @@
-bitcoinscript
-========
 <p align="center">
   <img src="./images/script-logo.jpg" alt="logo" height="200"/>
 </p>
