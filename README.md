@@ -1,5 +1,6 @@
 bitcoinscript
 ========
+![Script Logo](./images/script-logo.jpg)
 
 [![Build Status](https://travis-ci.org/murray-distributed-technologies/bitcoinscript.png?branch=master)](https://travis-ci.org/murray-distributed-technologies/bitcoinscript)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
